@@ -197,12 +197,12 @@
 					<!-- checkout-step-02  -->
 					<div class="panel panel-default checkout-step-02">
 						<div class="panel-heading">
-						    <h4 class="unicase-checkout-title">
-						        <a data-toggle="collapse" class="collapsed" data-parent="#accordion" href="#collapseTwo">
-						          <span>2</span>Изменить пароль
-						        </a>
-						    </h4>
-						</div>  <!-- /.panel-heading -->
+							<h4 class="unicase-checkout-title">
+								<a data-toggle="collapse" class="" data-parent="#accordion" href="#collapseOne">
+									<span>2</span>Изменить пароль
+								</a>
+							</h4>
+						</div>
 
 						<div id="collapseTwo" class="panel-collapse collapse">
 						    <div class="panel-body">
@@ -262,4 +262,4 @@
 	<script src="assets/js/scripts.js"></script>
 </body>
 </html>
-<?php } ?>
+<?php  ?>

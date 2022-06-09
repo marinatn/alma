@@ -91,13 +91,43 @@
 										<div id="collapseOne" class="panel-collapse collapse in">
 											<!-- panel-body  -->
 											    <div class="panel-body">
-												    <form name="payment" method="post">
-													    <input type="radio" name="paymethod" value="COD" checked="checked"> Наложенный платеж
-													    <input type="radio" name="paymethod" value="Internet Banking"> Расчетный счет
-													    <input type="radio" name="paymethod" value="Debit / Credit card"> Оплата картой
-													    	<br /><br />
-													    <input type="submit" value="submit" name="submit" class="btn btn-primary">
-												    </form>		
+												    <li id="li_5">
+
+													    <span>
+												            <input id="element_5_1" name="element_5" class="element radio" type="radio" value="Банковской картой" />
+												            	<label class="choice" for="element_5_1">
+												            		Банковской картой
+												            	</label>
+												            <input id="element_5_2" name="element_5" class="element radio" type="radio" value="Расчетный счет" />
+												            	<label class="choice" for="element_5_2">
+												            		Расчетный счет
+												            	</label>
+												            <input id="element_5_3" name="element_5" class="element radio" type="radio" value="Оплата при получении">
+												            	<label>
+												            		Оплата при получении
+												            	</label>
+												        </span>
+												      
+									   
+													    
+												    </li>	
+
+												        <li id="li_3">
+													        <label class="description" for="element_3">Реквизиты банковской карты</label>
+													        <div class="left">
+													            <input id="element_3_3" name="element_3_3" class="element text medium" value="" type="text">
+													            <label for="element_3_3">Номер карты</label>
+													        </div>
+													        <div class="right">
+													            <input id="element_3_4" name="element_3_4" class="element text medium" value="" type="text">
+													            <label for="element_3_4">Срок дейсвтия</label>
+													        </div>
+													        <div>
+													            <input id="element_3_1" name="element_3_1" class="element text large" value="" type="text">
+													            <label for="element_3_1">CSV код</label>
+													        </div>
+													    </li>	
+													    <input type="submit" value="Оплатить" name="submit" class="btn btn-primary">
 												</div> <!-- /.panel-body -->
 											<!-- panel-body  -->
 										</div><!-- collapseOne -->
@@ -115,6 +145,15 @@
 		</div><!-- /.body-content outer-top-bd -->
 
 		<?php include('includes/footer.php');?>
+		<script>
+        document.getElementById("element_5_1").onclick = function () {
+            document.getElementById("li_3").style.display = "block";
+            document.getElementById("li_4").style.display = "none";
+        }
+ 
+       
+    </script>
+		</script>
 		<script src="assets/js/jquery-1.11.1.min.js"></script>
 		
 		<script src="assets/js/bootstrap.min.js"></script>

@@ -67,11 +67,11 @@ while($row=mysqli_fetch_array($query))
 
 if($st==1)
 {
-	echo "Successfull";
+	echo "Успешно";
 }
 else
 {
-	echo "Failed";
+	echo "Не удалось";
 }
 										 ?></td>
 											

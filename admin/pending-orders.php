@@ -8,7 +8,7 @@ header('location:index.php');
 }
 else{
 
-date_default_timezone_set('Europe/Moscow');// change according timezone
+date_default_timezone_set('Europe/Moscow');
 $currentTime = date( 'd-m-Y h:i:s A', time () );
 
 
@@ -72,10 +72,8 @@ popUpWin = open(URLStr,'popUpWin', 'toolbar=no,location=no,directories=no,status
 											<th>Адрес доставки</th>
 											<th>Товар </th>
 											<th>Кол-во </th>
+											<th>Стоимость с доставкой</th>
 											<th>Дата заказа</th>
-											<th>Действия</th>
-											
-										
 										</tr>
 									</thead>
 								

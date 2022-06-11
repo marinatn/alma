@@ -72,7 +72,7 @@ popUpWin = open(URLStr,'popUpWin', 'toolbar=no,location=no,directories=no,status
 											<th>Адрес доставки</th>
 											<th>Товар </th>
 											<th>Кол-во </th>
-											<th>Стоимость с доставкой</th>
+											<th>Итоговая цена</th>
 											<th>Дата заказа</th>
 										</tr>
 									</thead>

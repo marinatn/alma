@@ -67,7 +67,7 @@ popUpWin = open(URLStr,'popUpWin', 'toolbar=no,location=no,directories=no,status
 										<tr>
 											<th>№</th>
 											<th> Имя заказчика</th>
-											<th width="50">Эл. почта/Телефон</th>
+											<th width="50">Контакты</th>
 											<th>Адрес доставки</th>
 											<th>Товары </th>
 											<th>Кол-во </th>

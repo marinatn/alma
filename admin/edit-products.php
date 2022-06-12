@@ -190,7 +190,7 @@ while($rw=mysqli_fetch_array($query))
 <label class="control-label" for="basicinput">Наличие товара</label>
 <div class="controls">
 <select   name="productAvailability"  id="productAvailability" class="span8 tip" required>
-<option value="<?php echo htmlentities($row['productAvailability']);?>"><?php echo htmlentities($row['productAvailability']);?></option>
+<option value=<?php echo htmlentities($row['productAvailability']);?>> </option>
 <option value="In Stock">В наличии</option>
 <option value="Out of Stock">Распродано</option>
 </select>

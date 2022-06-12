@@ -1,5 +1,5 @@
 <div class="side-menu animate-dropdown outer-bottom-xs">
-    <div class="head"><i class="icon fa fa-align-justify fa-fw"></i> Categories</div>        
+    <div class="head"><i class="icon fa fa-align-justify fa-fw"></i> Категории</div>        
     <nav class="yamm megamenu-horizontal" role="navigation">
   
         <ul class="nav">

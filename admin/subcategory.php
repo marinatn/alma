@@ -47,7 +47,7 @@ if(isset($_GET['del']))
 
 						<div class="module">
 							<div class="module-head">
-								<h3>Подкатегории</h3>
+								<h3>Добавление новой подкатегории</h3>
 							</div>
 							<div class="module-body">
 

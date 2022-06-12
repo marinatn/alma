@@ -109,7 +109,7 @@ while($row=mysqli_fetch_array($query))
 
 	<div class="module">
 							<div class="module-head">
-								<h3>Подкатегории магазина</h3>
+								<h3>Управление подкатегориями</h3>
 							</div>
 							<div class="module-body table">
 								<table cellpadding="0" cellspacing="0" border="0" class="datatable-1 table table-bordered table-striped	 display" width="100%">

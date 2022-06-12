@@ -96,6 +96,8 @@ $st='Delivered';
       <td  class="fontkink"><span class="fontkink1" >
         <select name="status" class="fontkink" required="required" >
           <option value="">Выберете статус заказа</option>
+                 <option value="in Process">В работе</option>
+                 <option value="in Process">Отменен</option>
                  <option value="in Process">Доставлен</option>
         </select>
         </span></td>

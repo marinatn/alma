@@ -10,13 +10,13 @@
 				</div><!--/.item-->
 
 				<div class="item">
-					<a href="#" class="image">
+					<a href="http://alma/category.php?cid=27" class="image">
 						<img data-echo="brandsimage/nkk.jpg" src="assets/images/blank.gif" alt="">
 					</a>	
 				</div><!--/.item-->
 
 				<div class="item">
-					<a href="http://alma/category.php?cid=27" class="image">
+					<a href="http://alma/category.php?cid=29" class="image">
 						<img data-echo="brandsimage/pantika.jpg" src="assets/images/blank.gif" alt="">
 					</a>	
 				</div><!--/.item-->

@@ -130,7 +130,7 @@ img[src="assets/images/blank.gif"] {
   -ms-transition: all linear 0.2s;
   -o-transition: all linear 0.2s;
   transition: all linear 0.2s;
-  background: #a8a8a8;
+  background: #3CB371;
   color: #fff;
   border: none;
   font-size: 13px;
@@ -1453,7 +1453,7 @@ a {
   font-family: 'FjallaOneRegular';
   padding: 15px 17px;
   text-transform: uppercase;
-  background: #333333;
+  background: #228B22;
 }
 .sidebar .side-menu .head .icon {
   margin-right: 20px;
@@ -2512,7 +2512,7 @@ a {
 .product .cart .action ul li.add-cart-button .btn.btn-primary.icon {
   border-bottom-right-radius: 0;
   border-top-right-radius: 0;
-  background: #575757 ;
+  background: #006400 ;
 }
 .product .cart .action ul li.lnk {
   margin: 10px 0px;
@@ -2575,7 +2575,7 @@ a {
 .cart .action .add-cart-button .btn.btn-primary.icon {
   border-bottom-right-radius: 0;
   border-top-right-radius: 0;
-  background: #575757 ;
+  background: #006400 ;
 }
 .cart .action.lnk {
   margin: 10px 0px;
@@ -3053,7 +3053,7 @@ a {
   float: left;
 }
 .hot-deals .cart .action .add-cart-button a {
-  background: none repeat scroll 0 0 #a8a8a8;
+  background: none repeat scroll 0 0 #3CB371;
   border: medium none;
   color: #FFFFFF;
   display: block;
@@ -3063,7 +3063,7 @@ a {
   padding: 0px;
 }
 .hot-deals .cart .action .add-cart-button a .icon {
-  background: none repeat scroll 0 0 #575757;
+  background: none repeat scroll 0 0 #006400;
   color: #FFFFFF;
   height: 100%;
   left: 0;
@@ -3312,7 +3312,7 @@ a {
   margin: 8px 0px !important;
 }
 .search-result-container .category-product .product .cart .lnk a {
-  background: #a8a8a8;
+  background: #3CB371;
   padding: 8px 11px !important;
   margin-left: 10px;
   color: #fff !important;
@@ -3909,7 +3909,7 @@ a {
 .furniture-container .cart .action .add-cart-button .btn.btn-primary.icon {
   border-bottom-right-radius: 0;
   border-top-right-radius: 0;
-  background: #575757 ;
+  background: #006400 ;
 }
 .furniture-container .cart .action.lnk {
   margin: 10px 0px;
@@ -3992,7 +3992,7 @@ a {
 .homepage-container .product .cart .action .add-cart-button .btn.btn-primary.icon {
   border-bottom-right-radius: 0;
   border-top-right-radius: 0;
-  background: #575757 ;
+  background: #006400 ;
 }
 .homepage-container .product .cart .action.lnk {
   margin: 10px 0px;
@@ -4041,7 +4041,7 @@ a {
 .homepage-container .cart .action .add-cart-button .btn.btn-primary.icon {
   border-bottom-right-radius: 0;
   border-top-right-radius: 0;
-  background: #575757 ;
+  background: #006400 ;
 }
 .wrapper .box {
   margin-left: auto;

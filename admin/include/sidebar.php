@@ -65,7 +65,7 @@ $num1 = mysqli_num_rows($rt);
 
 
 						<ul class="widget widget-menu unstyled">
-                                <li><a href="category.php"><i class="menu-icon icon-tasks"></i> Создать категорию </a></li>
+                                <li><a href="category.php"><i class="menu-icon icon-tasks"></i> Категории </a></li>
                                 <li><a href="subcategory.php"><i class="menu-icon icon-tasks"></i>Подкатегории </a></li>
                                 <li><a href="insert-product.php"><i class="menu-icon icon-paste"></i>Добавить товар </a></li>
                                 <li><a href="manage-products.php"><i class="menu-icon icon-table"></i>Менеджер товаров </a></li>

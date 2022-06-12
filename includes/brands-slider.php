@@ -14,13 +14,7 @@
 						<img data-echo="brandsimage/botavikos.jpg" src="assets/images/blank.gif" alt="">
 					</a>	
 				</div><!--/.item-->
-
-				<div class="item">
-					<a href="#" class="image">
-						<img data-echo="brandsimage/doctor_oil.jpg" src="assets/images/blank.gif" alt="">
-					</a>	
-				</div><!--/.item-->
-
+				
 				<div class="item">
 					<a href="#" class="image">
 						<img data-echo="brandsimage/ecocraft.jpg" src="assets/images/blank.gif" alt="">

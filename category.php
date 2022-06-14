@@ -84,7 +84,7 @@
 		<!-- CSS code import end -->
 
 		<!-- Favicon -->
-		<link rel="shortcut icon" href="assets/images/favicon.ico">
+		<link rel="shortcut icon" href="assets/images/favicon.jpg>
 	</head>
 
     <body class="cnt-home">
